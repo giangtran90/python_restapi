@@ -5,3 +5,7 @@ Train Restfull Api voi Python - du an don gian VScode
 2.Thiet ke Database : SQLAlchemy
   chu y: cai dat them: pip install flask-sqlalchemy pymysql
          cai dat sqlite + sqliteStudio(tool)
+  branch: feature/20240922_thiet_ke_DB (ok)
+3.Thu vien Marshmallow : giup dinh dang du lieu ve json de tra ve front end, validate
+  cai dat: pip install flask_marshmallow
+  branch: feature/20240923_Thu_vien_Marshmallow
